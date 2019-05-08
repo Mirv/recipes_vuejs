@@ -1,0 +1,21 @@
+{
+  "name": "nuxt_test",
+  "version": "1.0.0",
+  "description": "My slick Nuxt.js project",
+  "author": "mirv",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^2.6.0",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
